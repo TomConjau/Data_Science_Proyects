@@ -8,3 +8,7 @@ Para esto analizaremos la información en base a 3 tipos de modelos:
 - Regresión logística
 
 En cada uno de estos modelos veremos y calibraremos sus hiperparámetros para buscar la mayor exactitud posible.
+
+Librerias de Python utilizadas:
+- Pandas
+- Sklearn
