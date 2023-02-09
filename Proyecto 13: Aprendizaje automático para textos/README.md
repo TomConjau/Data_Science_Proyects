@@ -5,6 +5,8 @@ Librerías de Python utilizadas:
 - pandas
 - matpotlib
 - math
+- seaborn
+- tqdm
 - nltk
 - torch
 - transformers
@@ -16,3 +18,4 @@ Modelos predictivos utilizados:
 - Regresión lineal
 - CatBoost
 - LightGBM
+- DummyClassifier
