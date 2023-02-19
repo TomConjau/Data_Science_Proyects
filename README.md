@@ -10,4 +10,4 @@ Proyectos de aplicación y aprendizaje de los conceptos y habilidades entregadas
 - Data analysis
 
 
-These are Data Science projects I completed when going through the Data Science training course in Practicum by Yandex. They involve Data Preprocessing, Analysis and Visualization, Statistical Analysis, Machine Learning, Machine Learning for texts, Time Series, Computer Vision, etc.
+Lo que se pública aquí son los reportes finales de cada proyecto. En dónde se puede ver el proceso de análisis exploratorio de datos EDA, toma de decisiones para la eleción de los mejores parámetros y aplicación de modelos predictivos para una toma de decisión tomada en base al conocimiento proporcionado por los datos.
