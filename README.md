@@ -1,13 +1,13 @@
 # Proyectos-de-Practicum
-Proyectos de aplicación y aprendizaje de los conceptos y habilidades entregadas por Practicum de Yandex. Las habilidades principales son:
+Projects applying and learning the concepts and skills delivered by Yandex Practicum. The main skills are:
 - Python
 - Machine Learning
-- Redes neuronales
-- Aprendizaje supervisado
-- Aprendizaje no supervisado
+- Neural Networks
+- Supervised Learning
+- Unsupervised learning
 - SQL
 - Data scrapping
 - Data analysis
 
 
-Lo que se pública aquí son los reportes finales de cada proyecto. En dónde se puede ver el proceso de análisis exploratorio de datos EDA, toma de decisiones para la eleción de los mejores parámetros y aplicación de modelos predictivos para una toma de decisión tomada en base al conocimiento proporcionado por los datos.
+What is published here are the final reports of each project. Here you can see the process of exploratory analysis of EDA data, decision making for the selection of the best parameters and application of predictive models for decision making based on the knowledge provided by the data.
