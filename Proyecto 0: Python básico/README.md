@@ -1,3 +1,3 @@
-Primer proyecto para Practicum en donde se aplican los conocimientos básicos del lenguaje Python para poder analizar un conjunto de datos. En este primer proyecto se esta analizando los gustos y preferencias de 2 ciudades en la música que consumen.
+First Practicum project in which basic knowledge of the Python language is applied to analyse a set of data. In this first project we are analysing the tastes and preferences of 2 cities in the music they consume.
 
-Se hace uso de la libreria Pandas
+It makes use of the Pandas library
