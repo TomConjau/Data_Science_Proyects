@@ -1,5 +1,5 @@
 # Practicum Projects
-Projects applying and learning the concepts and skills delivered by Yandex Practicum. The main skills are:
+Projects applying the concepts and skills learned in Practicum by Yandex. The main skills are:
 - Python
 - Machine Learning
 - Neural Networks
